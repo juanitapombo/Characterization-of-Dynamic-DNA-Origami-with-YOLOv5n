@@ -1,0 +1,10 @@
+python train.py --img 640 --batch 16 --epochs 500 --data ../train1_structure.yaml --weights yolov5n.pt --cache --patience 500 --hyp hyp.scratch-low.yaml
+python train.py --img 640 --batch 16 --epochs 500 --data ../train2_structure.yaml --weights yolov5n.pt --cache --patience 500 --hyp hyp.scratch-low.yaml
+python train.py --img 640 --batch 16 --epochs 500 --data ../train3_structure.yaml --weights yolov5n.pt --cache --patience 500 --hyp hyp.scratch-low.yaml
+python train.py --img 640 --batch 16 --epochs 500 --data ../train4_structure.yaml --weights yolov5n.pt --cache --patience 500 --hyp hyp.scratch-low.yaml
+python train.py --img 640 --batch 16 --epochs 500 --data ../train5_structure.yaml --weights yolov5n.pt --cache --patience 500 --hyp hyp.scratch-low.yaml
+python train.py --img 640 --batch 16 --epochs 500 --data ../train6_structure.yaml --weights yolov5n.pt --cache --patience 500 --hyp hyp.scratch-low.yaml
+python train.py --img 640 --batch 16 --epochs 500 --data ../train7_structure.yaml --weights yolov5n.pt --cache --patience 500 --hyp hyp.scratch-low.yaml
+python train.py --img 640 --batch 16 --epochs 500 --data ../train8_structure.yaml --weights yolov5n.pt --cache --patience 500 --hyp hyp.scratch-low.yaml
+python train.py --img 640 --batch 16 --epochs 500 --data ../train9_structure.yaml --weights yolov5n.pt --cache --patience 500 --hyp hyp.scratch-low.yaml
+python train.py --img 640 --batch 16 --epochs 500 --data ../train10_structure.yaml --weights yolov5n.pt --cache --patience 500 --hyp hyp.scratch-low.yaml
