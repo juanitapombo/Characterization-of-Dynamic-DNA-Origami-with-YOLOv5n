@@ -23,9 +23,9 @@ characterization workflows.
 
 #### 2.1 Replication Target
 We focused our efforts on reproducing the following results:
-- Figure 2A: An example micrograph with predicted bounding boxes drawn around
+- Figure 2A: An example micrograph with predicted bounding boxes drawn around
 isolated hinges, illustrating successful particle detection.
-- Figure 2B: A performance evaluation of the trained YOLOv5n model, showing F1
+- Figure 2B: A performance evaluation of the trained YOLOv5n model, showing F1
 score as a function of training image quantity, with an inset plot displaying F1 score
 versus confidence threshold across different training sizes.
 - Figure 2D: A confusion matrix comparing prediction performance prior to post-
