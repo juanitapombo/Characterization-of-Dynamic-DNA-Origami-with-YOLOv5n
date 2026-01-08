@@ -1,0 +1,6 @@
+train: /Users/juanitapombog/Desktop/DUKE/classes/appls_ML/module5_replication/Dataset/nDFS_Dataset/Raw_TEM_DataSet_Annotated/images/train5/
+val: /Users/juanitapombog/Desktop/DUKE/classes/appls_ML/module5_replication/Dataset/nDFS_Dataset/Raw_TEM_DataSet_Annotated/images/valid10
+test: /Users/juanitapombog/Desktop/DUKE/classes/appls_ML/module5_replication/Dataset/nDFS_Dataset/Raw_TEM_DataSet_Annotated/images/test
+
+nc: 1  # Number of classes (1 in this case --> only class 0)
+names: ['class0']  # List of class names 
